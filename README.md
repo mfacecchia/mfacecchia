@@ -5,7 +5,7 @@
 
 ## 🌐 Socials & Contacts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feis._.arts) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@feis._.arts) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Face_Or_Feis) [![Email](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](http://feiswebsitefm.000webhostapp.com) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
+)](https://feiswebsite.it) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](https://linktr.ee/mfeis)
 
 # 💻 Tech Stack:
