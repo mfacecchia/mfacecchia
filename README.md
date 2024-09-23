@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi! My name is Marco
-🤵‍♂️ I'm a young aspiring Full Stack Developer wanting to learn as many notions as possible!<br>🔭 Currently learning Python and TailwindCSS<br>🧠 Knowledge in HTML/CSS/JS, Database (MySQL + PHP), C, Python, Arduino & More<br>🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender
+🤵‍♂️ I'm a young aspiring Full Stack Developer wanting to learn as many notions as possible!<br>🔭 Currently learning Full-Stack Web Development<br>🧠 Knowledge in HTML/CSS/JS/NodeJS, Database (MySQL + PHP), C, Python, Arduino & More<br>🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender
 
 
 ## 🌐 Socials & Contacts:
