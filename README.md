@@ -1,10 +1,10 @@
 # 💫 About Me:
 ### Hi! My name is Marco
-🤵‍♂️ I'm a young aspiring Full Stack Developer wanting to learn as many notions as possible!<br>🔭 Currently learning Full-Stack Web Development<br>🧠 Knowledge in HTML/CSS/JS/NodeJS, Database (MySQL + PHP), C, Python, Arduino & More<br>🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender
+🤵‍♂️ I'm a young aspiring Full-Stack Developer wanting to learn as many notions as possible!<br>🔭 Currently learning Full-Stack Web Development<br>🧠 Knowledge in Java 21, TypeScript/Express, React, Python/Flask, and MySQL.<br>🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender
 
 ## 🌐 Socials & Contacts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feis._.arts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-facecchia-93362b2b2) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Face_Or_Feis) [![Email](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](https://feiswebsite.it) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
+)](https://feis.vercel.app) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](https://linktr.ee/mfeis) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mfacecchia)
 
 ## 💻 Tech Stack:
