@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi! My name is Marco
-🤵‍♂️ I'm a young aspiring Full-Stack Developer wanting to learn as many notions as possible!<br>🔭 Currently learning Full-Stack Web Development<br>🧠 Knowledge in Java 21, TypeScript/Express, React, Python/Flask, and MySQL.<br>🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender
+🤵‍♂️ I'm a young aspiring Full-Stack Developer wanting to learn as many notions as possible!<br>🔭 Currently learning Full-Stack Web Development<br>🧠 Knowledge in Java 21/Spring Boot, TypeScript/Express, React, Python/Flask, and MySQL.<br>🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender
 
 ## 🌐 Socials & Contacts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feis._.arts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-facecchia-93362b2b2) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Face_Or_Feis) [![Email](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ### Backend 👨‍💻
-![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Database 🗂️
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
