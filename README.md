@@ -4,7 +4,7 @@
 🔭 Currently learning Full-Stack Web Development with high interest in many other fields of programming\
 🧠 Knowledge in Java 21/Spring Boot, TypeScript/Express, React, Python/Flask, and MySQL (with particular interest in Rust)\
 🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender\
-⌨️ Visual Studio Code as main IDE (currently switching to NeoVim tho)
+⌨️ NeoVim as main IDE
 
 ## 🌐 Socials & Contacts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feis._.arts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-facecchia-93362b2b2) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Face_Or_Feis) [![Email](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
