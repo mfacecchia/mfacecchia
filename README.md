@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi! My name is Marco
-🤵‍♂️ I'm a young aspiring Full-Stack Web Developer wanting to learn as many notions as possible!\
+🤵‍♂️ I'm a Junior Full-Stack Web Developer wanting to learn as many notions as possible!\
 🔭 Currently learning Full-Stack Web Development with high interest in many other fields of programming\
 🧠 Knowledge in Java 21/Spring Boot, TypeScript/Express, React, Python/Flask, and MySQL (with particular interest in Rust)\
 🕛 In my spare time I also do some Video Editing in Final Cut and 3D Modelling in Blender\
